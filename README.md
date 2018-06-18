@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/telemark/tfk-generate-archive-title.svg?branch=master)](https://travis-ci.org/telemark/tfk-generate-archive-title)
+[![Build Status](https://travis-ci.com/telemark/tfk-generate-archive-title.svg?branch=master)](https://travis-ci.com/telemark/tfk-generate-archive-title)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # tfk-generate-archive-title

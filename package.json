@@ -40,5 +40,8 @@
     "coveralls": "3.0.1",
     "nyc": "12.0.2",
     "standard": "11.0.1"
+  },
+  "dependencies": {
+    "get-skole-aar": "1.0.0"
   }
 }

@@ -12,12 +12,12 @@ test('it returns default title on empty', t => {
 
 test('it returns expected title for agreement', t => {
   const titles = generateTitle({
-    category: 'agreement',
-    type: 'elevpc'
+    category: 'elevpc',
+    type: 'agreement'
   })
   const expectedTitles = {
-    title: 'Elevpc - agreement',
-    publicTitle: 'Elevpc - agreement'
+    title: 'Agreement - elevpc',
+    publicTitle: 'Agreement - elevpc'
   }
   t.deepEqual(titles, expectedTitles, 'agreement ok')
 })
